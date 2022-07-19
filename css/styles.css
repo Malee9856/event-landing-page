@@ -1,0 +1,34 @@
+/* Jumbotron */
+
+.jumbotron{
+    height: 40vh;
+    background-color: gray;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.section-left {
+    background-color: pink;
+}
+
+.top {
+    background-color: brown;
+    height: 10vh;
+    
+    
+}
+.bottom {
+    background-color: magenta;
+    height: 10vh;
+    
+}
+
+.bottom-left {
+    background-color: plum;
+    height: 13vh;
+}
+.bottom-right {
+    background-color: aqua;
+}
+
