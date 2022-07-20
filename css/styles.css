@@ -1,12 +1,6 @@
 /* Jumbotron */
 
-.jumbotron{
-    height: 40vh;
-    background-color: gray;
-    text-align: center;
-    font-size: 50px;
-    margin-top: 20px;
-}
+
 
 .section-left {
     background-color: pink;
